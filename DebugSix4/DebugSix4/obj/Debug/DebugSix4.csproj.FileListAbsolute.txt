@@ -1,0 +1,5 @@
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSix4\DebugSix4\bin\Debug\DebugSix4.exe.config
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSix4\DebugSix4\bin\Debug\DebugSix4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSix4\DebugSix4\bin\Debug\DebugSix4.pdb
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSix4\DebugSix4\obj\Debug\DebugSix4.exe
+C:\Users\Cleveland Codes\Documents\Visual Studio 2015\Projects\Debugging\DebugSix4\DebugSix4\obj\Debug\DebugSix4.pdb
